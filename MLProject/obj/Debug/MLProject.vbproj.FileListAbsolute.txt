@@ -1,0 +1,12 @@
+C:\Users\ISBRECHA\source\repos\MLProject\MLProject\bin\Debug\MLProject.exe.config
+C:\Users\ISBRECHA\source\repos\MLProject\MLProject\bin\Debug\MLProject.exe
+C:\Users\ISBRECHA\source\repos\MLProject\MLProject\bin\Debug\MLProject.pdb
+C:\Users\ISBRECHA\source\repos\MLProject\MLProject\bin\Debug\MLProject.xml
+C:\Users\ISBRECHA\source\repos\MLProject\MLProject\obj\Debug\MLProject.vbproj.AssemblyReference.cache
+C:\Users\ISBRECHA\source\repos\MLProject\MLProject\obj\Debug\MLProject.frmMain.resources
+C:\Users\ISBRECHA\source\repos\MLProject\MLProject\obj\Debug\MLProject.Resources.resources
+C:\Users\ISBRECHA\source\repos\MLProject\MLProject\obj\Debug\MLProject.vbproj.GenerateResource.cache
+C:\Users\ISBRECHA\source\repos\MLProject\MLProject\obj\Debug\MLProject.vbproj.CoreCompileInputs.cache
+C:\Users\ISBRECHA\source\repos\MLProject\MLProject\obj\Debug\MLProject.exe
+C:\Users\ISBRECHA\source\repos\MLProject\MLProject\obj\Debug\MLProject.xml
+C:\Users\ISBRECHA\source\repos\MLProject\MLProject\obj\Debug\MLProject.pdb
